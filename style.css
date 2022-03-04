@@ -48,4 +48,30 @@ img:hover{
     height: 500px;
     background-color:azure ; 
 }
-
+#myCarousel{
+    background-color:aquamarine;
+}
+#myCarousel img{
+    height:300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:blue;
+    font-size: 25px;
+}
+#myCarouse2{
+    background-color: black;
+}
+#myCarouse2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse3{
+    background-color :blueviolet;
+}
+#myCarouse3 img{
+    height: 300px;
+    margin-top: 35px;
+}
